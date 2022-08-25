@@ -4,7 +4,7 @@
 
 - name: add-component
   tags:
-  title: Adding components
+  title: Add components
   content: |-
     An application is a collection of one or more components. To add a component, tell us where to find your code, and let App Studio do the rest.
 
@@ -12,7 +12,7 @@
 
     1. **GitHub repository**
 
-       We'll analyze your code, create as many components as your app has, and deploy them to the Development environment included with the Service Preview.
+       We'll analyze your code, create as many components as your app has, and deploy them to the Development environment included with App Studio.
 
        >**NOTE**: Currently, App Studio can build apps written using the following language stacks and frameworks: Python, Java, Go, .NET, Node.js, Quarkus, and Spring.
 
